@@ -2,4 +2,4 @@
 
 template from initializr
 
-now update readme locally
+updates made on master on github  beore rebase
